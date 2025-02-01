@@ -103,16 +103,9 @@ Now, the app will be available at http://localhost:3000 🚀
 
 docker logs <container_id>
 
-📌 Git Best Practices Used
-
-✅ Version control with Git
-✅ Meaningful commit messages (e.g., "Added Google Translate API integration")
-✅ .gitignore file to exclude unnecessary files
-✅ Branching strategy to manage changes
-
 👨‍💻 Author
 
 Harshita Verma
-📧 Email: your-email@example.com
+📧 Email: hvharshitaverma2002@gmail.com
 🔗 GitHub: Harshitaaverma
 
