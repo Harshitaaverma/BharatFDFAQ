@@ -1,4 +1,3 @@
-Here is your README with every command in Markdown format:
 
 # **BharatFDFAQ**  
 This project is part of an assessment for **BHARATFD**. It is a simple FAQ management system built using **Node.js, Express.js, and Google Translate API**, with data stored in a local JSON file. The system allows users to create FAQs, fetch them, and retrieve translated versions in **Hindi** and **Bengali**.  
